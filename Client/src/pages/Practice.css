@@ -1,0 +1,80 @@
+.center1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+
+.vertical-layout {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.horiz-layout {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.margin1{
+    margin-top: 15%;
+    margin-bottom: 100px;
+    color: aliceblue;
+}  
+
+.textColor{
+    font-size: 0.9cm;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.textColor2{
+    color: rgb(255, 255, 255);
+    font-size: 0.5cm;
+}
+
+.no-background{
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    font-size: 0.5cm;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 200px;
+    margin-bottom: 30px;
+}
+
+.colorP{
+    color: aliceblue;
+}
+ 
+.icons{
+    color: aliceblue;
+    margin-right: 20px;
+    margin-left: 20px
+}
+
+.wrong-char {
+    color: red;
+}
+
+.right-char{
+    color: white;
+}
+
+.initial-char{
+    color: rgb(173, 173, 173);
+}
+
+.current-word{
+    text-decoration: underline;
+    color: white;
+}
+
+.endMessage{
+    margin-top: 30px;
+    font-size: larger;
+}
+
+.main-text{
+    margin-right: 50px;
+    margin-left: 50px;
+}

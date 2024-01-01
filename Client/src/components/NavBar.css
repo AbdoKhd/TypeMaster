@@ -1,0 +1,13 @@
+.div3{
+    margin-right: 10px;
+}
+
+.horiz-layout {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.marg{
+    margin-left: 10px;
+}
